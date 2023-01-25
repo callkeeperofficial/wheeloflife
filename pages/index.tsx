@@ -59,6 +59,9 @@ export default function Home() {
           </div>
         </div>
 
+        <p className={inter.className}>
+          В общем, это я написал. Так что пис вам
+        </p>
         <div className={styles.grid}>
           <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
@@ -86,6 +89,7 @@ export default function Home() {
             <p className={inter.className}>
               Learn about Next.js in an interactive course with&nbsp;quizzes!
             </p>
+            <p>this is my changes</p>
           </a>
 
           <a
